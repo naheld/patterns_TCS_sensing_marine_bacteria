@@ -18,16 +18,8 @@ dependencies:
   - seaborn=0.8.1
 
   - pip:
-    - attrs==18.1.0
-    - backports.shutil-get-terminal-size==1.0.0
-    - basemap==1.1.0
-    - ez-setup==0.9
     - homebrew==0.0.20
     - more-itertools==4.1.0
-    - nameparser==0.5.6
-    - pluggy==0.6.0
-    - pyerf==1.0.1
-    - rope-py3k==0.9.4.post1
     - scikits.bootstrap==1.0.0
     - tables==3.4.2
 
