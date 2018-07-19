@@ -6,7 +6,6 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - colorcet=1.0.0=py36h86301b6_0
   - datashader=0.6.5=py36_0
   - biggus=0.15.0=py36_0
   - cartopy=0.15.1=py36_5
