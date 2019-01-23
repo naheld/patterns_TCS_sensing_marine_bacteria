@@ -1,6 +1,6 @@
-# ecohiskin_binder
+# patterns_TCS_sensing_marine_bacteria
 ###
-This notebook contains the data analysis and visualization scripts for "Ecological drivers of two component regulation in marine bacteria" (Held et al.,submitted)
+This notebook contains the data analysis and visualization scripts for "Unique patterns of two component regulation in marine bacteria" (Held et al., soon to be submitted)
 
 The scripts included may be used in accordance with the MIT License (see License.txt)
 
